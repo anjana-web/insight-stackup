@@ -1,6 +1,6 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+We are a passionate group of web developers dedicated to creating cutting-edge web applications, websites, and tools. Our team is committed to open-source collaboration, innovation, and pushing the boundaries of web development.
 ## Team members
 1. ANJANA S - https://github.com/anjana-web
 2. AKHILA K S - 
