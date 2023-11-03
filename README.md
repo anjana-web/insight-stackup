@@ -5,7 +5,7 @@ Long Description about project. This project do that. This project is awesome...
 1. ANJANA S - https://github.com/anjana-web
 2. AKHILA K S - 
 3. S ANUSHREE - https://github.com/SAnushree2004
-4. GOWRI MOHAN S - 
+4. GOWRI MOHAN S - https://github.com/Gowrimoham?tab=stars
 ## Team Id
 insight
 ## Link to product walkthrough
