@@ -2,10 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. ANJANA S
-2. AKHILA K S
-3. S ANUSHREE
-4. GOWRI MOHAN S
+1. ANJANA S - https://github.com/anjana-web
+2. AKHILA K S - 
+3. S ANUSHREE - https://github.com/SAnushree2004
+4. GOWRI MOHAN S - 
 ## Team Id
 insight
 ## Link to product walkthrough
